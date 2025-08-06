@@ -2,9 +2,9 @@
   "name": "whoustrout-v14-discord-bot-template",
   "version": "1.0.0",
   "description": "Whoustrout V14 Discord Bot Template",
-  "main": "app.js",
+  "main": "Whoustrout.js",
   "scripts": {
-    "start": "node ."
+    "start": "node Whoustrout.js"
   },
   "keywords": ["discord", "bot", "javascript", "discordjs", "djs", "discord.js", "discord-bot", "discord-bot-template", "discord-bot-template-v14", "discord-bot-template-v14-javascript", "discord-bot-template-v14-javascript-discordjs", "discord-bot-template-v14-javascript-discordjs-djs", "discord-bot-template-v14-javascript-discordjs-djs-discord.js", "bos-altyapi", "whoustrout", "whoustrout-v14", "whoustrout-v14-discord-bot-template", "whoustrout-v14-discord-bot-template-javascript", "whoustrout-v14-discord-bot-template-javascript-discordjs", "whoustrout-v14-discord-bot-template-javascript-discordjs-djs", "whoustrout-v14-discord-bot-template-javascript-discordjs-djs-discord.js", "whoustrout-v14-discord-bot-template-javascript-discordjs-djs-discord.js-bos-altyapi", "whoustrout-v14-discord-bot-template-javascript-discordjs-djs-discord.js-bos-altyapi-bos-altyapi"],
   "author": "Whoustrout",
