@@ -1,4 +1,4 @@
-# 🤖 Whoustrout Discord Bot Template
+# 🤖 Whoustrout Discord V14 Bot Template
 
 Bu Discord bot şablonu, Discord.js v14 kullanılarak oluşturulmuş modern ve kullanıcı dostu bir bot altyapısıdır.
 
@@ -62,7 +62,7 @@ npm i
 
 #### 5. Botu Çalıştırın
 ```bash
-node .
+node Whoustrout.js
 ```
 
 ## 📋 Mevcut Komutlar
@@ -84,8 +84,8 @@ node .
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ WhoustroutBot/                                     ┃
-┃ ├── app.js                  # Ana bot dosyası      ┃
+┃ whoustrout-v14-discord-bot-template/               ┃
+┃ ├── Whoustrout.js           # Ana bot dosyası      ┃
 ┃ ├── package.json            # Proje bağımlılıkları ┃
 ┃ ├── README.md               # Bu dosya             ┃
 ┃ └── Src/                                           ┃
