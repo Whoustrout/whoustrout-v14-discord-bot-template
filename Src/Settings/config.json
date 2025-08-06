@@ -1,0 +1,10 @@
+{
+  "token": "Bot Tokeni",
+  "clientId": "Bot IDsi",
+  "guildId": "Sunucu IDsi",
+  "prefix": "!",
+  "embedColor": "#0099ff",
+  "activity": "Developed by Whoustrout",
+  "status": "dnd"
+}
+
