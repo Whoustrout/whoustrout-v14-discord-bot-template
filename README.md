@@ -24,7 +24,7 @@ Bu Discord bot şablonu, Discord.js v14 kullanılarak oluşturulmuş modern ve k
 
 #### 1. Projeyi İndirin
 ```bash
-git clone https://github.com/your-username/discord-bot-template.git
+git clone https://github.com/Whoustrout/whoustrout-v14-discord-bot-template.git
 cd discord-bot-template
 ```
 
